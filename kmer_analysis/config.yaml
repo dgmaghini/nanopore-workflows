@@ -1,0 +1,5 @@
+genomes: "/labs/asbhatt/dmaghini/projects/southafrica/nanopore/kmer_repeats/treponema_succ_bin114.fa"
+nmag_bed: "/labs/asbhatt/dmaghini/projects/southafrica/nanopore/circos/treponema_succ/aligned/nmag_0.bed"
+imag_bed: "/labs/asbhatt/dmaghini/projects/southafrica/nanopore/circos/treponema_succ/aligned/imag_0.bed"
+mersize: 101
+mercount: 5
