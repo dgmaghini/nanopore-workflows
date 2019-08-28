@@ -1,2 +1,0 @@
-# nanopore-workflows
-template readme
